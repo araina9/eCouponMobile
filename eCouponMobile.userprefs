@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{78DADAF9-81F6-4C5B-AA9D-367139EC20D6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Droid/eCouponMobile.Droid.csproj">
+    <Files>
+      <File FileName="eCouponMobile/LoginPage.xaml" Line="14" Column="1" />
+      <File FileName="eCouponMobile/LoginPage.xaml.cs" Line="15" Column="10" />
+      <File FileName="eCouponMobile/CouponsPage.xaml" Line="7" Column="62" />
+      <File FileName="eCouponMobile/CouponsPage.xaml.cs" Line="14" Column="39" />
+      <File FileName="eCouponMobile/CouponPage.xaml.cs" Line="11" Column="21" />
+      <File FileName="eCouponMobile/CouponPage.xaml" Line="7" Column="1" />
+      <File FileName="Droid/eCouponMobile.Droid.csproj" Line="11" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.eCouponMobile.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.631927D9-76C0-4E92-907C-5B93ABCDDA01" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Volumes/Macintosh Data/Work/Xamarin/eCouponMobile/eCouponMobile/Login.xaml.cs" relfile="eCouponMobile/Login.xaml.cs" line="36" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
